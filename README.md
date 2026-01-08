@@ -3,6 +3,7 @@
 ## Project Overview
 Notes Manager is a simple frontend application built with React that allows users to create, view, and delete notes.
 The project focuses on clean component architecture, predictable state management, and a polished user experience without overengineering.
+LIVE DEMO :https://notes-app-react00.netlify.app/
 
 ## How to Run
 
